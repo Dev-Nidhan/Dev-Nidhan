@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nidhan Jain
 - 👀 I’m interested in learning new Programming languages, Computer Technologies, Hacking, Game Devlopment and exploring new things related to computer
-- 🌱 I’m currently learning Python, Java and to make Games
+- 🌱 I’m currently learning Python,C and C++ to make Games
 - 💞️ I’m looking to collaborate on Community for Making different Programmes and apps/games
 - 📫 How to reach me Nidhan Jain(LinkedIn)
 - 😄 Pronouns: He/Him
